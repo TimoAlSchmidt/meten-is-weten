@@ -10,3 +10,5 @@ if(numA > numB):
 elif(numA < numB):
     Min = numA
     print("a is het kleinste getal: "+str(Min))
+else:
+    print("a en b zijn even groot")
